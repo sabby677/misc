@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",HBO Signature
+
+http://165.227.32.151/loadbalance/28347661835572978857/chunks.m3u8?pxAuth=1RAJPaWxHLIIh008lzTghZZw1JvMGNjc
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",HBO
+
+http://159.89.19.238/loadbalance/hbohd/chunks.m3u8?pxAuth=u5fzamwDkqlgXUnMvmRHfRDdOplBa16T
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",HBO Plus
+
+http://165.227.46.54/loadbalance/hboplus/chunks.m3u8?pxAuth=0NoIEA9E3DoUUkUJ3IV6YEopS8YohMfF
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",HBO 2
+
+http://165.227.37.17/loadbalance/hbo2hd/chunks.m3u8?pxAuth=7OMOMmWYEI1crcl7QTSQth9BIl7A5MCn
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",TC FUN
+
+http://159.89.27.16/loadbalance/telecinefun/chunks.m3u8?pxAuth=ybUr1eCqHmd16vxaMWoNUjE4UraBLiYq
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",TC ACTION
+
+http://165.227.32.151/loadbalance/telecineaction/chunks.m3u8?pxAuth=oHQ5Am22kWeEjHTNCaUbO1KF3rUN7IOI
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",TC TOUTCH
+
+http://165.227.37.17/loadbalance/telecinetouch/chunks.m3u8?pxAuth=lXOzXMDmhldJKJtim3FdhBYUJFRu6on8
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",TC PREMIUM
+
+http://165.227.35.133/loadbalance/telecinepremium/chunks.m3u8?pxAuth=UiVWZn87TVL7HHfP1irFbRjoCEd2oPPm
+
+#EXTINF:0 tvg-logo="" group-title="FILMES",TC PIPOCA
+
+http://165.227.32.151/loadbalance/telecinepipoca/chunks.m3u8?pxAuth=GDRtT4JUTfaLBYWUZAfOVHznYqu93d6H
